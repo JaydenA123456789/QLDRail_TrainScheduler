@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "QLDRail_TrainScheduler": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Test1.txt\"\r\n\"Test2.txt\"\r\n\"Test3.txt\"\r\n\"Test4.txt\"\r\n\"Test5.txt\"\r\n\"Test6.txt\"\r\n\"Test7.txt\"\r\n\"Test8.txt\"\r\n\"Test9.txt\"\r\n\"Test10.txt\"\r\n\"Test11.txt\"\r\n\"Test12.txt\"",
+      "workingDirectory": "C:\\Users\\jayde\\source\\repos\\QLDRail_TrainScheduler\\QLDRail_TrainScheduler"
+    }
+  }
+}
