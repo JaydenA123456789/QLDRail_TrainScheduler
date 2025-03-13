@@ -36,7 +36,7 @@ Decision Rule:
 ## **1. Installation & Setup**  
 
 ### **Prerequisites**  
-- **.NET 6.0 SDK or higher**: [Download Here](https://dotnet.microsoft.com/en-us/download)
+- **.NET 8.0 SDK (or compatible runtime)**: [Download Here](https://dotnet.microsoft.com/en-us/download)
 - **Visual Studio 2022** (or any compatible C# IDE)
 
 ### **Clone or Download the Repository**  
