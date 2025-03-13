@@ -11,6 +11,16 @@ To add files to be run, add them to the QLDRail_TrainScheduler/TrainSequenceFile
 2.  Navigate to the file directory of the Project (C:\[Your file location]\QLDRail_TrainScheduler\QLDRail_TrainScheduler)
 3.  Run the application with: dotnet run "[YourFile].txt"
 
+For the text file:
+"1, True
+2, False
+3, True
+4, False
+5, True
+6, True"
+
+The output will be: "This train runs express from 1 to 5, stopping only at 3 then stops at all stations except 7"
+
 ## **Edgecase Assumptions**
 When handling complex stop sequences, the program divides them into sections. However, certain sequences may have multiple valid interpretations.
 

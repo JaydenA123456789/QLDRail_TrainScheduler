@@ -20,7 +20,7 @@ namespace QLDRail_TrainScheduler.TrainScheduler
         {
             List<string> rawStationList = new List<string>();
 
-            string filePath = Path.Combine("TrainSequences", arg);
+            string filePath = Path.Combine("TrainSequenceFiles", arg);
             if (File.Exists(filePath))
             {
                 using (StreamReader reader = new StreamReader(filePath))
